@@ -16,8 +16,5 @@ try:
 
     # Teste...
     print(data)
- except Exception as e:
-    prin(f" Erro: {e}")   
-
-
-
+except Exception as e:
+    print(f"Erro: {e}")
